@@ -29,6 +29,7 @@
 |124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)|40 ms|
 |127|[ Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](./solutions/127.%20Word%20Ladder.cpp)|180 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./solutions/128.%20Longest%20Consecutive%20Sequence.cpp)|32 ms|
+|129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|0 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|16 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|32 ms|
 |430|[ Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](./solutions/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)|4 ms|
