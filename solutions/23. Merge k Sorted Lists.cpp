@@ -25,9 +25,9 @@ public:
         
         for(int i = 0 ; i< lists.size();i++){
             if(lists[i] != NULL)
-                pq.push(lists[i]);
-            
+                pq.push(lists[i]);            
         }
+        
         while(pq.empty() == false){
             ListNode* node = pq.top();
             pq.pop();
@@ -46,5 +46,5 @@ public:
         
         return head;
         
-    }
-};
+    }   
+};      
