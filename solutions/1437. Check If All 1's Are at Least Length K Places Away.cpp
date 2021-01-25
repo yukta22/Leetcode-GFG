@@ -16,10 +16,39 @@ public:
             else{
                 count++;
             }
-            
+                                                      
         }
         
         return true;
         
     }
 };
+​
+/*
+    bool kLengthApart(vector<int>& nums, int k) {
+        int val = 0;
+        int len = 0;
+       
+        for(int i =0 ;i<nums.size();i++){
+            
+            if(nums[i] == 1){
+                if(val == 0){
+                    val++;
+                  
+                }
+                else{
+                    int x = len - val;
+                    if(x < k){
+                        return false;
+                    }
+                    len = 0;
+                    val = 1;
+                    }
+                   
+                }
+            len++; 
+            }            
+         return true;            
+    } 
+};
+*/
