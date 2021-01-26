@@ -57,6 +57,7 @@
 |1437|[ Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[C++](./solutions/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.cpp)|52 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|148 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./solutions/1512.%20Number%20of%20Good%20Pairs.cpp)|4 ms|
+|1631|[ Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[C++](./solutions/1631.%20Path%20With%20Minimum%20Effort.cpp)|408 ms|
 |1641|[ Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[C++](./solutions/1641.%20Count%20Sorted%20Vowel%20Strings.cpp)|4 ms|
 |1646|[ Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[C++](./solutions/1646.%20Get%20Maximum%20in%20Generated%20Array.cpp)||
 |1649|[ Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|[C++](./solutions/1649.%20Create%20Sorted%20Array%20through%20Instructions.cpp)|736 ms|
