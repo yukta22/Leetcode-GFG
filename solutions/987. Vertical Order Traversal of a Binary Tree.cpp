@@ -1,3 +1,4 @@
+/**
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
@@ -11,6 +12,7 @@
 class Solution {
 public:
     //dfs method
+    //T.C. : O(logN * logN * logN * N)
     map<int,map<int,set<int>>> mymap;
     
     void solve(TreeNode* curr , int col , int row){
@@ -42,22 +44,3 @@ public:
     }
 };
 ​
-//  //BFS-Method
-// class Solution {
-// public:
-//     vector<vector<int>> verticalTraversal(TreeNode* root) {
-//         TreeNode *curr;
-//         queue<pair<TreeNode*, int>> q;
-//         q.push({root,0});
-//         vector<vector<int>> ans;
-//         map<int,vector<int>> mymap;
-        
-//         //BFS
-//         while(!q.empty())
-//         {
-//             int size = q.size();            
-//             map<int,set<int>> mapset;
-            
-//             while(size--)
-//             {
-//                 curr = q.front().first;
