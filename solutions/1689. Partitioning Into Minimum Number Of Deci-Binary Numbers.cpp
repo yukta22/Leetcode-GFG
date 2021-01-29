@@ -7,5 +7,5 @@ public:
         
         return answer;
 ​
-    }
+    }
 };
