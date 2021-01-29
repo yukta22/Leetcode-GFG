@@ -50,6 +50,7 @@
 |965|[ Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[C++](./solutions/965.%20Univalued%20Binary%20Tree.cpp)|0 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|4 ms|
 |1123|[ Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[C++](./solutions/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.cpp)|24 ms|
+|1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[C++](./solutions/1189.%20Maximum%20Number%20of%20Balloons.cpp)|0 ms|
 |1207|[ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](./solutions/1207.%20Unique%20Number%20of%20Occurrences.cpp)|4 ms|
 |1261|[ Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[C++](./solutions/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.cpp)|48 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)|0 ms|
