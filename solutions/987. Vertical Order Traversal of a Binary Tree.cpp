@@ -39,8 +39,3 @@ public:
                 }
             }
             
-        }
-        return ans;
-    }
-};
-​
