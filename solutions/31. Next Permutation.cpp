@@ -1,11 +1,11 @@
 class Solution {
 public:
-    // time == O(n) + O(n + O(n) = O(n)   space ===O(1)
+    // time == O(n) + O(n) + O(n) = O(n)   space ===O(1)
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
         int idx = -1;
         
-        for(int i = n-1;i > 0;i--){
+        for(int i = n-1 ; i > 0 ; i--){
             if(nums[i] > nums[i-1]){
                 idx = i;
                 break;
