@@ -49,6 +49,7 @@
 |430|[ Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](./solutions/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp)|4 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./solutions/461.%20Hamming%20Distance.cpp)|0 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./solutions/496.%20Next%20Greater%20Element%20I.cpp)|340 ms|
+|524|[ Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[C++](./solutions/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)|60 ms|
 |526|[ Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[C++](./solutions/526.%20Beautiful%20Arrangement.cpp)|4 ms|
 |538|[ Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](./solutions/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)|40 ms|
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.cpp)|28 ms|
