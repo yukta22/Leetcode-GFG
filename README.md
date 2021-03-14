@@ -96,3 +96,4 @@
 |1680|[ Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[C++](./solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.cpp)|88 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|60 ms|
 |1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./solutions/1720.%20Decode%20XORed%20Array.cpp)|40 ms|
+|1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|580 ms|
