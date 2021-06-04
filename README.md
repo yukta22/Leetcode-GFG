@@ -59,6 +59,7 @@
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./solutions/461.%20Hamming%20Distance.cpp)|0 ms|
 |478|[ Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[C++](./solutions/478.%20Generate%20Random%20Point%20in%20a%20Circle.cpp)|88 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](./solutions/496.%20Next%20Greater%20Element%20I.cpp)|340 ms|
+|501|[ Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[C++](./solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp)|12 ms|
 |524|[ Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[C++](./solutions/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)|60 ms|
 |526|[ Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[C++](./solutions/526.%20Beautiful%20Arrangement.cpp)|4 ms|
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./solutions/535.%20Encode%20and%20Decode%20TinyURL.cpp)|0 ms|
