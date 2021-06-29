@@ -90,6 +90,7 @@
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|4 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[C++](./solutions/991.%20Broken%20Calculator.cpp)|12 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[C++](./solutions/997.%20Find%20the%20Town%20Judge.cpp)|136 ms|
+|1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[C++](./solutions/1004.%20Max%20Consecutive%20Ones%20III.cpp)|60 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|0 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|24 ms|
 |1091|[ Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[C++](./solutions/1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp)|76 ms|
