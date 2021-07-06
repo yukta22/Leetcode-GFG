@@ -109,6 +109,7 @@
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C++](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.cpp)|12 ms|
 |1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[C++](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.cpp)|168 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|0 ms|
+|1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[C++](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|12 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[C++](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|8 ms|
 |1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[C++](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)|1264 ms|
 |1437|[ Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[C++](./solutions/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.cpp)|52 ms|
