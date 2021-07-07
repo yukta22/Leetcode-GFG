@@ -18,6 +18,7 @@
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|8 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./solutions/27.%20Remove%20Element.cpp)|0 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./solutions/31.%20Next%20Permutation.cpp)|0 ms|
+|33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|4 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./solutions/38.%20Count%20and%20Say.cpp)|52 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|24 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|0 ms|
