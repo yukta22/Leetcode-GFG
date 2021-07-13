@@ -18,10 +18,13 @@ public:
         
         int l=max(0,helper(root->left,sum));
         int r=max(0,helper(root->right,sum));
+       
+        int temp = max(max(l,r)+root->val , root->val);
+        int ans = max(temp , l+r+root->val);
         
-        sum=max(sum, root->val+l+r);
+        sum=max(sum, ans);
 ​
-        return (root->val + max(l,r));
+        return temp;
     }
 ​
     
