@@ -50,6 +50,7 @@
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|0 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|32 ms|
 |138|[ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./solutions/138.%20Copy%20List%20with%20Random%20Pointer.cpp)|8 ms|
+|139|[ Word Break](https://leetcode.com/problems/word-break/)|[C++](./solutions/139.%20Word%20Break.cpp)|8 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./solutions/141.%20Linked%20List%20Cycle.cpp)|4 ms|
 |151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](./solutions/151.%20Reverse%20Words%20in%20a%20String.cpp)|4 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./solutions/162.%20Find%20Peak%20Element.cpp)|12 ms|
