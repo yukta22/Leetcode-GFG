@@ -68,6 +68,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|4 ms|
 |284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[C++](./solutions/284.%20Peeking%20Iterator.cpp)|0 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./solutions/328.%20Odd%20Even%20Linked%20List.cpp)|20 ms|
+|338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|4 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|32 ms|
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](./solutions/376.%20Wiggle%20Subsequence.cpp)|0 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|0 ms|
