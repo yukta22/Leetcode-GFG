@@ -100,6 +100,7 @@
 |865|[ Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[C++](./solutions/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.cpp)|8 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./solutions/876.%20Middle%20of%20the%20Linked%20List.cpp)|0 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[C++](./solutions/881.%20Boats%20to%20Save%20People.cpp)|80 ms|
+|886|[ Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[C++](./solutions/886.%20Possible%20Bipartition.cpp)|196 ms|
 |896|[ Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[C++](./solutions/896.%20Monotonic%20Array.cpp)|128 ms|
 |897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](./solutions/897.%20Increasing%20Order%20Search%20Tree.cpp)|0 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|136 ms|
