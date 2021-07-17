@@ -44,6 +44,7 @@
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](./solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)|0 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|16 ms|
 |105|[ Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](./solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp)|32 ms|
+|114|[ Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|8 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|16 ms|
 |118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./solutions/118.%20Pascal's%20Triangle.cpp)|0 ms|
 |124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)|24 ms|
