@@ -99,6 +99,7 @@
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[C++](./solutions/733.%20Flood%20Fill.cpp)|12 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[C++](./solutions/791.%20Custom%20Sort%20String.cpp)|4 ms|
+|814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|0 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[C++](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.cpp)|4 ms|
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[C++](./solutions/823.%20Binary%20Trees%20With%20Factors.cpp)|48 ms|
 |863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)|12 ms|
