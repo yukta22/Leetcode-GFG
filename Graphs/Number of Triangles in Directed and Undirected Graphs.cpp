@@ -45,7 +45,7 @@ signed main() {
 #endif
 
     solve();
-    
+ 
     return 0;
 }
 
