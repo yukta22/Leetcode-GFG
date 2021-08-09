@@ -26,6 +26,7 @@ class Solution{
     }
 };
 
+
 //////////////////////////another approch////////////////
 //T.C. : O(n)
 class Solution{
