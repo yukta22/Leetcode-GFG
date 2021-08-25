@@ -92,6 +92,7 @@
 |559|[ Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](./solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree.cpp)|24 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[C++](./solutions/594.%20Longest%20Harmonious%20Subsequence.cpp)|72 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./solutions/623.%20Add%20One%20Row%20to%20Tree.cpp)|16 ms|
+|633|[ Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[C++](./solutions/633.%20Sum%20of%20Square%20Numbers.cpp)||
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|4 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|24 ms|
 |695|[ Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[C++](./solutions/695.%20Max%20Area%20of%20Island.cpp)|12 ms|
