@@ -153,3 +153,4 @@
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|60 ms|
 |1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./solutions/1720.%20Decode%20XORed%20Array.cpp)|40 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|948 ms|
+|1992|[ Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)|[C++](./solutions/1992.%20Find%20All%20Groups%20of%20Farmland.cpp)|128 ms|
