@@ -31,4 +31,3 @@ public:
         return decodeString(s,i);
     }
 };
-
