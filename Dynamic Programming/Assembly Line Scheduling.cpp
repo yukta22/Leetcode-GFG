@@ -1,7 +1,4 @@
-https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/
-
-
-
+//https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/
 
 int carAssembly(int a[][4] , int t[][4] , int * e , int * x){
 
