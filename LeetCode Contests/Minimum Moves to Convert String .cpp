@@ -4,9 +4,7 @@ class Solution {
 public:
 
 int minimumMoves(string s) {
-    
         int count = 0;
-    
         int n = s.size();
     
         for(int i = 0 ; i < n ; i++){
@@ -23,11 +21,8 @@ int minimumMoves(string s) {
                         break;
                     }
                 }
-                
             }
-            
-        }
-    
+        }    
         return count;
     }
 };
