@@ -30,12 +30,25 @@ public:
 
 //////////////////////////////////////////////// Optimal || T.C = O(nlogn) || S.C = O(N) //////////////////////////////////////////
 
-int lengthOfLIS(vector<int>& nums) {
-    vector<int> res;
-    for(int i=0; i<nums.size(); i++) {
-        auto it = std::lower_bound(res.begin(), res.end(), nums[i]);
-        if(it==res.end()) res.push_back(nums[i]);
-        else *it = nums[i];
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<int>seq;
+        seq.push_back(nums[0]);
+        
+        for(int i=1;i<n;i++){
+            if(seq.back() < nums[i]){
+                seq.push_back(nums[i]);
+            }
+            else{
+                int ind = lower_bound(seq.begin(),seq.end(),nums[i]) - seq.begin();
+                cout << seq[ind]<< " "<<nums[i]<<endl;
+                seq[ind] = nums[i];
+            }
+        }
+        
+        return seq.size();
+
     }
-    return res.size();
-}
+};
