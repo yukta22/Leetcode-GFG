@@ -45,7 +45,6 @@ public:
             ans.push_back(curr->val);
             if(curr->right) st.push(curr->right);
             if(curr->left) st.push(curr->left);
-            
         }
         
         return ans;
